@@ -66,23 +66,10 @@ cl.predict([[1,2,3,4,5,6,7,8,9,10,11,12]])
 ```
 
 ## Output:
-![the Logistic Regression Model to Predict the Placement Status of Student](sam.png)
+![Screenshot 2025-04-26 215242](https://github.com/user-attachments/assets/92d1e80f-568c-4977-a1da-e2b077c2ad0c)
+![Screenshot 2025-04-26 214844](https://github.com/user-attachments/assets/8d832669-1d11-4ab9-b6c9-9fcb62887930)
+![Screenshot 2025-04-26 215300](https://github.com/user-attachments/assets/a6f5af77-dbab-4462-997e-cdf0008fdc5f)
 
-![Screenshot (854)](https://github.com/user-attachments/assets/d97000d7-532b-451a-bc26-c7b94c1dfafd)
-
-![Screenshot (855)](https://github.com/user-attachments/assets/424d79a4-c0d6-47df-95db-45dbab36fd39)
-
-![Screenshot (856)](https://github.com/user-attachments/assets/fbc0bc13-b014-4a12-a5b3-628531893f32)
-
-![Screenshot (857)](https://github.com/user-attachments/assets/b8c49d5e-f263-4459-8170-c04dc359508c)
-
-![Screenshot (858)](https://github.com/user-attachments/assets/d20edb72-9807-4676-8315-e56b9d7e84a9)
-
-![Screenshot (859)](https://github.com/user-attachments/assets/9ff53bde-89e3-47bc-861a-5f2053095278)
-
-![Screenshot (860)](https://github.com/user-attachments/assets/6d01c989-e101-4a25-8181-f0fe3b0711b9)
-
-![Screenshot (861)](https://github.com/user-attachments/assets/5a709ba7-50d2-4a8a-944a-d41b3a93deb7)
 
 ## Result:
 Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
